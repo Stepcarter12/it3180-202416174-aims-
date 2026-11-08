@@ -11,6 +11,13 @@ và dự án tuân thủ [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 - `Cart.sort_by_title()` và `Cart.sort_by_cost()` sắp xếp đĩa DVD trong giỏ hàng.
 - `search_by_category()` tìm kiếm đĩa DVD theo thể loại.
 
+### Fixed
+- Sửa lỗi `search_by_title()` phân biệt chữ hoa/thường (#20).
+
+## [1.0.1] - 2026-11-08
+### Fixed
+- Sửa lỗi `search_by_title()` phân biệt chữ hoa/thường (#20).
+
 ## [1.0.0] - 2026-11-08
 ### Added
 - `Cart.print_cart()` hiển thị chi tiết giỏ hàng và xử lý giỏ hàng trống.
