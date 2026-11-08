@@ -5,6 +5,8 @@ Mọi thay đổi đáng chú ý của dự án AIMS-mini được ghi nhận t�
 và dự án tuân thủ [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- `Cart.sort_by_title()` và `Cart.sort_by_cost()` sắp xếp đĩa DVD trong giỏ hàng.
 
 ## [1.0.0] - 2026-11-08
 ### Added
